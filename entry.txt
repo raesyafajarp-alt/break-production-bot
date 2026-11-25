@@ -1,0 +1,1 @@
+I typed DROP TABLE users; in production and pressed enter before reading it. The backup was a screenshot. I am the postmortem.
